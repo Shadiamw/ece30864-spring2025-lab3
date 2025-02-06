@@ -1,1 +1,2 @@
-This is a commit
+(a) What are some Pros and Cons of Agile development(vs. non-Agile)? List two of each?
+Two pros of agile development are that we get constant collaboration with customers and we get to better organize the project by breaking it down into several teams. Two cons of Agile development are that there tends to be poor documentation as there is more of a focus on improving functionality, and it can create an over reliance on customer feedback.
