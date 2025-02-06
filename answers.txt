@@ -6,3 +6,6 @@ The scrum master is in charge of JIRA tooling, handling sprints and meetings, an
 
 (c) What are the 3 types of meetings that happen during a sprint cycle? List at least 2 points on what needs to be discussed during each of these meetings.
 The three types of meetings are the sprint planning meeting, where the team determines what to complete in sprint and determines story points to be assigned, the standup meetings, where the goal is to meet every day to discuss work completed and their work plan for the day, and retroactive meeting, where the goal is to discuss the work completed and move all of the incomplete work to the backlog.
+
+(d) Differentiate between Epic, Story, Bug, and Task issue types in JIRA.
+Epic is the largest type of issue in JIRA, it is a major issue that will have many tasks and subtasks assigned to it, and it can be broken down into several stories. A story is a system reqruirement that can be expressed in a few small sentences, and is usually a part of the much larger Epic. A bug is the smallest type of issue you can create on JIRA, it is an issue in the code that needs to be addressed for functionality. A task is a very small issue that can be fixed very quickly, and it also put under an epic.
