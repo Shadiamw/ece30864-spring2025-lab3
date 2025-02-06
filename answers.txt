@@ -3,3 +3,6 @@ Two pros of agile development are that we get constant collaboration with custom
 
 (b) Explain the role and responsibilities of the Scrum Master vs the Product Owner
 The scrum master is in charge of JIRA tooling, handling sprints and meetings, and assigning tasks. The product owner is in charge of setting the direction of the team, and handling releases and stakeholder management.
+
+(c) What are the 3 types of meetings that happen during a sprint cycle? List at least 2 points on what needs to be discussed during each of these meetings.
+The three types of meetings are the sprint planning meeting, where the team determines what to complete in sprint and determines story points to be assigned, the standup meetings, where the goal is to meet every day to discuss work completed and their work plan for the day, and retroactive meeting, where the goal is to discuss the work completed and move all of the incomplete work to the backlog.
